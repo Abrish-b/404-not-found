@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://not-found-dev-challenges.web.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/zRddK2WmJfduwqZ2hZ0i">
       Solution
     </a>
     <span> | </span>
@@ -36,22 +36,28 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://i.imgur.com/BgZTA4b.png (https://i.imgur.com/BJiHQVv.png))
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This a Dev-Challenges project for 404 error landing page 
+this was great for me specially showing me how to make a page 
+from a figma down to pixel perfect static page.
+
+I used firebase hosting since it's easy to setup and manage but also
+free.
+
+I suggest for someone building this website to avoid using static numbers
+for padding and margin. if you can help it avoid it beacause it will 
+drastically improve Responsivensess.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://www.w3schools.com/html)
+- [CSS](https://www.w3schools.com/css)
+- [CSS-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ## Features
 
@@ -70,6 +76,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Working on it Check my Github](#)
+- GitHub [@Abrish-b](https://github.com/Abrish-b)
+- Twitter [@abrish_bu](https://twitter.com/abrish_bu?t=hZClJYu4E8EQ122oe6me7Q&s=09)
